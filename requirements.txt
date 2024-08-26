@@ -1,0 +1,15 @@
+pandas
+mlflow==2.2.2
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm==4.66.5
+ensure==1.0.2
+joblib==1.4.2
+types-PyYAML==6.0.12.20240808
+Flask==2.3.3
+Flask-Cors==4.0.1
+-e . # This is needed for creation as a local Project
